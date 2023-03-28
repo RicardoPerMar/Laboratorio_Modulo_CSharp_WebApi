@@ -21,6 +21,7 @@ Por ejemplo:
   Descripción: "Estas camisetas son especiales para actividades físicas, suelen ser de materiales sintéticos delgados que transpiran para mantener a las personas frescas, permitiendo que su rendimiento físico aumente",
   Cantidad: 100,
 } 
+
 Entrada de artículo. Donde se indica la cantidad a incrementar y el identificador del articulo. Por ejemplo, la llamada a entrada del artículo con id igual a 1 y 200 en cantidad establecerá el articulo con Id 1 con la cantidad que tuviera mas 200 unidades. Control de errores:
 
 En el caso de no existir el articulo se deberá devolver un NotFound.
