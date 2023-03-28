@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 3,
+    "Nombre": "Leggins deportivos",
+    "Descripcion": "Estos leggins se adaptan perfectamente a la forma de tu pierna",
+    "Cantidad": 150,
+    "FechaEntrada": 2022
+  },
+  {
+    "Id": 1,
+    "Nombre": "Camiseta Deportiva",
+    "Descripcion": "Estas camisetas son especiales para actividades físicas, suelen ser de materiales sintéticos delgados que transpiran para mantener a las personas frescas, permitiendo que su rendimiento físico aumente",
+    "Cantidad": 1,
+    "FechaEntrada": 2018
+  },
+  {
+    "Id": 2,
+    "Nombre": "Zapatos Deportivos",
+    "Descripcion": "Estos zapatos son especiales para actividades físicas, suelen ser de materiales sintéticos delgados que transpiran para mantener a las personas frescas, permitiendo que su rendimiento físico aumente",
+    "Cantidad": 200,
+    "FechaEntrada": 2020
+  }
+]
