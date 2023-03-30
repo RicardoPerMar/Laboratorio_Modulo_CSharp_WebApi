@@ -18,13 +18,13 @@ namespace Ejercicio1.Controllers
         {
             _actorRepository = actorRepository;
         }
-        /*[HttpGet]
+        [HttpGet]
         public ActionResult<List<Actor>> GetAll()
         {
             return _actorRepository.GetActors();
-        }*/
+        }
 
-        [HttpGet]
+        [HttpGet("{id}")]
         public ActionResult<Actor> GetById(int id)
         {
             return _actorRepository.GetActorById(id);
@@ -59,7 +59,7 @@ namespace Ejercicio1.Controllers
             }
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public ActionResult DeleteActor(int id)
         {
             try

@@ -50,7 +50,7 @@ namespace Ejercicio1.Repositories
         public Actor GetActorById(int id)
         {
             var actors = GetActors();
-            var actor = actors[id - 1];
+            var actor = actors.Find(a => a.Id == id);
             return actor;
         }
 

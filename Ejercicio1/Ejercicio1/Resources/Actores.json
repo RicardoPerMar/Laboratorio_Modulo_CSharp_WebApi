@@ -1,22 +1,5 @@
 [
   {
-    "Id": 1,
-    "Nombre": "Jack",
-    "Apellido": "Nicholson",
-    "Peliculas": [
-      {
-        "Id": 1,
-        "Titulo": "El resplandor",
-        "FechaPublicacion": 1980
-      },
-      {
-        "Id": 2,
-        "Titulo": "Mejor... imposible",
-        "FechaPublicacion": 1997
-      }
-    ]
-  },
-  {
     "Id": 2,
     "Nombre": "Tom",
     "Apellido": "Hanks",
@@ -49,6 +32,23 @@
         "Id": 0,
         "Titulo": "Cateto a babor",
         "FechaPublicacion": 1970
+      }
+    ]
+  },
+  {
+    "Id": 1,
+    "Nombre": "Jacobo",
+    "Apellido": "Nicolas",
+    "Peliculas": [
+      {
+        "Id": 1,
+        "Titulo": "El resplandor",
+        "FechaPublicacion": 1980
+      },
+      {
+        "Id": 2,
+        "Titulo": "Mejor... imposible",
+        "FechaPublicacion": 1997
       }
     ]
   }

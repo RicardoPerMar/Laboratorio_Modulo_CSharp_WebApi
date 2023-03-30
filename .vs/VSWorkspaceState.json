@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Ejercicio1",
+    "\\Ejercicio1\\Ejercicio1",
+    "\\Ejercicio1\\Ejercicio1\\Controllers",
+    "\\Ejercicio1\\Ejercicio1\\Repositories"
   ],
+  "SelectedNode": "\\Ejercicio1\\Ejercicio1\\Controllers\\ActorController.cs",
   "PreviewInSolutionExplorer": false
 }
